@@ -1,6 +1,6 @@
 import React from 'react'
-import Button from './components/Button/Button'
-import Modal from './components/Modal/Modal'
+import Button from './Components/Button/Button'
+import Modal from './Components/Modal/Modal'
 
 class App extends React.Component{
   constructor(){
